@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4f8ef7&height=200&section=header&text=Apiwat%20Phanmueng&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20&%20%Hardware%20Engineer&descSize=16&descAlignY=58&descColor=c8d6f5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4f8ef7&height=200&section=header&text=Apiwat%20Phanmueng&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descSize=16&descAlignY=58&descColor=c8d6f5" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Building+end-to-end+systems+%E2%80%94+device+to+cloud+%E2%98%81%EF%B8%8F;React+%7C+Node.js+%7C+PostgreSQL+%7C+Docker+%7C+AWS;ESP32+%7C+MQTT+%7C+IoT+%7C+Embedded+Systems)](https://git.io/typing-svg)
 
