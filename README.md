@@ -97,17 +97,6 @@ Software & Hardware Engineer with experience building **full-stack web applicati
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Apiwat-Phanmueng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apiwat-Phanmueng&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌏 Languages
 
 | Language | Level |
