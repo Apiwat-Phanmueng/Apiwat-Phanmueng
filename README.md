@@ -1,4 +1,4 @@
-# Hi 👋 I'm Apiwat Phanmueng
+# Hi  I'm Apiwat Phanmueng
 
 💻 Full-Stack Developer | Embedded Systems Engineer  
 📍 Bangkok, Thailand  
@@ -99,14 +99,6 @@ Silpakorn University (2019 – 2023)
 
 Senior Project  
 Embedded system integrated with **cloud-based monitoring dashboard**
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apiwat-Phanmueng&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apiwat-Phanmueng&layout=compact)
 
 ---
 
